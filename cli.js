@@ -1,4 +1,4 @@
-#!/user/bin/env node
+#!/Users/ashams/.nvm/versions/node/v18.13.0/bin/node
 
 import moment from 'moment-timezone';
 import minimist from 'minimist';
