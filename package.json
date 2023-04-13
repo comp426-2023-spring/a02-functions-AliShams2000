@@ -18,7 +18,7 @@
   "bin": {
     "galosh.js": "./cli.js"
   },
-  "homepage": "https://github.com/comp426-2023-spring/a02-functions-baileymeredith#readme",
+  "homepage": "https://github.com/comp426-2023-spring/a02-functions-AliShams2000#readme",
   "dependencies": {
     "minimist": "^1.2.8",
     "moment-timezone": "^0.5.41",
