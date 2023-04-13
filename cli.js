@@ -5,10 +5,6 @@ import minimist from 'minimist';
 import fetch from 'node-fetch';
 
 const args = minimist(process.argv.slice(2));
-const days = args.d
-const timezone = setTimeZone();
-const latitude = setLatitude();
-const longitude = setLongitude();
 
 if (args.h){
 	// Display the message for help 
